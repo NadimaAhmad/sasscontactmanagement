@@ -15,6 +15,7 @@
           @reset-form="resetForm"
         />
 
+<!-- revisi -->
         <!-- Daftar Kontak -->
         <div v-if="contacts.length > 0" class="mt-4">
           <h5 class="mb-3">Daftar Kontak:</h5>
